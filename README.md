@@ -8,12 +8,12 @@
  ╚██╗ ██╔╝██║   ██║██╔════╝     ██╔════╝ ██╔═══██╗╚══██╔══╝██║  ██║██║    ██║██╔══██╗██║
   ╚████╔╝ ██║   ██║██║  ███╗    ██║  ███╗██║   ██║   ██║   ███████║██║ █╗ ██║███████║██║
    ╚██╔╝  ██║   ██║██║   ██║    ██║   ██║██║   ██║   ██║   ██╔══██║██║███╗██║██╔══██║██║
-    ██║   ╚██████╔╝╚██████╔╝    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║╚███╔███╔╝██║  ██║███████╗
-    ╚═╝    ╚═════╝  ╚═════╝      ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
+     ██║   ╚██████╔╝╚██████╔╝    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║╚███╔███╔╝██║  ██║███████╗
+     ╚═╝    ╚═════╝  ╚═════╝      ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;BCA+%40+9.3+CGPA+%E2%9C%A8;Building+things+that+matter+%F0%9F%94%A5;Java+%7C+Python+%7C+JavaScript;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+things+that+matter+%F0%9F%94%A5;Java+%7C+Python+%7C+JavaScript;BCA+%40+9.3+CGPA+%E2%9C%A8 ;Open+to+Internships+%26+Collabs+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
 <br/>
