@@ -153,7 +153,7 @@ PING interests (0.0.0.0): 56 data bytes
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=[your-github]&color=6EE7F7&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=yug77-tech&color=6EE7F7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
