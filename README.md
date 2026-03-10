@@ -105,7 +105,7 @@ print(me)
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/yug77-tech/&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yug77-tech&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats"/>
 
 </div>
 
