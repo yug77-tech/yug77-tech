@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
 ```
- ██╗   ██╗██╗   ██╗ ██████╗      ██████╗  ██████╗ ████████╗██╗  ██╗██╗    ██╗ █████╗ ██╗
- ╚██╗ ██╔╝██║   ██║██╔════╝     ██╔════╝ ██╔═══██╗╚══██╔══╝██║  ██║██║    ██║██╔══██╗██║
-  ╚████╔╝ ██║   ██║██║  ███╗    ██║  ███╗██║   ██║   ██║   ███████║██║ █╗ ██║███████║██║
-   ╚██╔╝  ██║   ██║██║   ██║    ██║   ██║██║   ██║   ██║   ██╔══██║██║███╗██║██╔══██║██║
-    ██║   ╚██████╔╝╚██████╔╝    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║╚███╔███╔╝██║  ██║███████╗
-    ╚═╝    ╚═════╝  ╚═════╝      ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
+  ██╗   ██╗██╗   ██╗ ██████╗      ██████╗  ██████╗ ████████╗██╗  ██╗██╗    ██╗ █████╗ ██╗
+  ╚██╗ ██╔╝██║   ██║██╔════╝     ██╔════╝ ██╔═══██╗╚══██╔══╝██║  ██║██║    ██║██╔══██╗██║
+   ╚████╔╝ ██║   ██║██║  ███╗    ██║  ███╗██║   ██║   ██║   ███████║██║ █╗ ██║███████║██║
+    ╚██╔╝  ██║   ██║██║   ██║    ██║   ██║██║   ██║   ██║   ██╔══██║██║███╗██║██╔══██║██║
+     ██║   ╚██████╔╝╚██████╔╝    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║╚███╔███╔╝██║  ██║███████╗
+     ╚═╝    ╚═════╝  ╚═════╝      ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,7 @@ class YugGothwal:
     def __init__(self):
         self.name       = "Yug Gothwal"
         self.location   = "New Delhi, India 🇮🇳"
-        self.education  = "BCA @ [Your College] — CGPA: 9.3/10.0"
+        self.education  = "BCA @AmityUniversity Noida — CGPA: 9.3/10.0"
         self.role       = "Full-Stack Developer & Software Engineering Enthusiast"
 
         self.currently  = [
@@ -122,11 +122,11 @@ print(me)
 
 ```bash
 [2024] ✅  Maintained 9.3 CGPA in BCA — consistent academic excellence
-[2024] ✅  Built Socialoom — full-stack creator networking platform from scratch
-[2024] ✅  Built iLoveFiles — real-world file sharing web app, deployed & working
-[2024] ✅  Completed Java Developer Internship @ Pinnacle Labs
-[2024] ✅  Shipped 4 independent projects spanning Web, IoT & Desktop
-[2025] 🔄  Currently: Building scalable systems & studying DSA intensively...
+[2024-25] ✅  Built Socialoom — full-stack creator networking platform from scratch
+[2025] ✅  Built iLoveFiles — real-world file sharing web app, deployed & working
+[2026] ✅  Completed Java Developer Internship @ Pinnacle Labs
+[2026] ✅  Shipped 4 independent projects spanning Web, IoT & Desktop
+[2026] 🔄  Currently: Building scalable systems & studying DSA intensively...
 ```
 
 ---
