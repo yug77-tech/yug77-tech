@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=header" width="100%"/>
 
 ```
-  ██╗   ██╗██╗   ██╗ ██████╗      ██████╗  ██████╗ ████████╗██╗  ██╗██╗    ██╗ █████╗ ██╗
-  ╚██╗ ██╔╝██║   ██║██╔════╝     ██╔════╝ ██╔═══██╗╚══██╔══╝██║  ██║██║    ██║██╔══██╗██║
-   ╚████╔╝ ██║   ██║██║  ███╗    ██║  ███╗██║   ██║   ██║   ███████║██║ █╗ ██║███████║██║
-    ╚██╔╝  ██║   ██║██║   ██║    ██║   ██║██║   ██║   ██║   ██╔══██║██║███╗██║██╔══██║██║
-       ██║   ╚██████╔╝╚██████╔╝    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║╚███╔███╔╝██║  ██║███████╗
-       ╚═╝    ╚═════╝  ╚═════╝      ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
+██╗   ██╗██╗   ██╗ ██████╗      ██████╗  ██████╗ ████████╗██╗  ██╗██╗    ██╗ █████╗ ██╗
+ ╚██╗ ██╔╝██║   ██║██╔════╝     ██╔════╝ ██╔═══██╗╚══██╔══╝██║  ██║██║    ██║██╔══██╗██║
+  ╚████╔╝ ██║   ██║██║  ███╗    ██║  ███╗██║   ██║   ██║   ███████║██║ █╗ ██║███████║██║
+   ╚██╔╝  ██║   ██║██║   ██║    ██║   ██║██║   ██║   ██║   ██╔══██║██║███╗██║██╔══██║██║
+    ██║   ╚██████╔╝╚██████╔╝    ╚██████╔╝╚██████╔╝   ██║   ██║  ██║╚███╔███╔╝██║  ██║███████╗
+    ╚═╝    ╚═════╝  ╚═════╝      ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝
 ```
 
 <a href="https://git.io/typing-svg">
@@ -93,9 +93,8 @@ print(me)
 | 🚀 Project | 📌 Description | 🛠 Stack |
 |:---:|:---|:---:|
 | [**Socialoom**](https://github.com/[your-github]/socialoom) | Creator community platform connecting professionals by career interest — with discussion boards, mentorship, leaderboard & expert credibility system | `JS` `HTML` `CSS` `APIs` `DB` |
-| [**iLoveFiles**](https://github.com/[your-github]/ilovefiles) | Secure file sharing via generated links — upload, store temporarily, and share instantly P2P | `JS` `PHP` `HTML` `CSS` |
-| [**Hydrate.AI**](https://github.com/[your-github]/hydrate-ai) | IoT smart bottle concept — tracks water intake, sends smart reminders, real-time hydration analytics dashboard | `Python` `IoT` `Web` |
-| [**Java Notes App**](https://github.com/[your-github]/java-notes) | Desktop note-taking application with file-based persistent storage, built on core OOP principles | `Java` `OOP` |
+| [**iLoveFiles**](https://ilovefiles.up.railway.app) | Secure file sharing via generated links — upload, store temporarily, and share instantly P2P | `JS` `PHP` `HTML` `CSS` |
+| [**Hydrate.AI**](https://smartbottle.vercel.app) | IoT smart bottle concept — tracks water intake, sends smart reminders, real-time hydration analytics dashboard | `Python` `IoT` `Web` |
 
 </div>
 
