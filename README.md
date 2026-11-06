@@ -116,19 +116,6 @@ Practicing algorithmic problem solving and strengthening fundamentals in data st
 
 ---
 
-### GITHUB ANALYTICS
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ### CONTRIBUTIONS
 
 - Open Source Connect 2026 Contributor
